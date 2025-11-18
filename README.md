@@ -20,7 +20,7 @@ El contenido está referenciado en el cuerpo de la tesis como "Anexo 1", "Anexo 
 
 El material suplementario completo está consolidado en un **único archivo PDF** para su fácil consulta y preservación.
 
-**➡️ Enlace de Descarga Directa: [OTD-Acapulco-MTI-Anexos.pdf](./OTD-Acapulco-MTI-Anexos.pdf)**
+**➡️ Enlace de Descarga Directa: [https://github.com/cjimenezmeza/OTDA-Acapulco-MTI/blob/main/OTD-Acapulco-MTI-Anexos.pdf]**
 
 *(Haga clic en el enlace anterior para abrir o descargar el PDF que contiene todos los anexos técnicos).*
 
